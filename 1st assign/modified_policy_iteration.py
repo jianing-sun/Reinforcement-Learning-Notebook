@@ -26,7 +26,9 @@ R[1, 2] = -1
 def policy_iteration():
     U = dict([(s, 0) for s in states])
     pi = dict([(s, random.choice(actions)) for s in states])
+    counter = 0
     while True:
+        counter += 1
         U = modified_evaluation(pi, P, R, U)
         policy_stable = True
         for s in range(len(states)):
@@ -47,15 +49,19 @@ def policy_iteration():
                 policy_stable = False
 
         if policy_stable:
-            return pi
+            return pi, counter
 
 
 def modified_evaluation(pi, P, R, U, k=20):
     for i in range(k):
         for s in range(len(states)):
-            U[s] = R[s, pi[s]] + discount_factor * sum([P[next_s, s, pi[s]] * U[s] for next_s in range(len(states))])
+            if (s == 0 and pi[s] == 2) or (s == 1 and pi[s] == 0) or (s == 1 and pi[s] == 1):
+                continue
+            # U[s] = R[s, pi[s]] + discount_factor * sum([P[next_s, s, pi[s]] * U[next_s] for next_s in range(len(states))])
+            U[s] = sum([P[next_s, s, pi[s]] * (R[s, pi[s]] + discount_factor * U[next_s]) for next_s in range(len(states))])
     return U
 
 
-policy = policy_iteration()
+policy, counter = policy_iteration()
 print(policy)
+print(counter)
