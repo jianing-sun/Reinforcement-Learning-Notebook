@@ -6,3 +6,4 @@
 ## Algorithms
 - Trust Region Policy Optimization
 - Deep Q-Network
+- Deep Deterministic Policy Gradient
