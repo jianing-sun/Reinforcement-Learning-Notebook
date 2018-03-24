@@ -59,7 +59,7 @@
 
 - Pseudocode:
 
-  ![mage-20180323210220](/var/folders/gn/ryfdjg7537z8w1tkpnm2np5r0000gn/T/abnerworks.Typora/image-201803232102209.png)
+  ![](https://ws2.sinaimg.cn/large/006tKfTcgy1fpnn4fnagjj314a0acmzp.jpg)
 
 ### 7. Conclusion
 
