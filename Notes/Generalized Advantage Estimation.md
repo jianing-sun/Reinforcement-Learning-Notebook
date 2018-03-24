@@ -23,9 +23,9 @@
 
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1fpnm39xh3cj31280aignb.jpg)
 
-- $\gamma-just$ estimator of the advantage function $\hat A_t$: an estimator that does not introduce bias when we use it in place of $A^{\pi,\gamma}$
+- The $\gamma-just$ estimator of the advantage function $\hat A_t$: an estimator that does not introduce bias when we use it in place of $A^{\pi,\gamma}$
 
-  ![mage-20180323204446](/var/folders/gn/ryfdjg7537z8w1tkpnm2np5r0000gn/T/abnerworks.Typora/image-201803232044465.png)
+  ![](https://ws4.sinaimg.cn/large/006tKfTcgy1fpnn2uz3znj30z803s3z0.jpg)
 
 ### 3. Advantage Function Estimation
 
