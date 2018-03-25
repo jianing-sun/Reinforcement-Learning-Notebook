@@ -1,4 +1,4 @@
-# Reinfocrement Learning Notebook
+# Reinforcement Learning Notebook
 ## Math Foundation
 - Multivariant Normal Distribuation 
 - [KL Divergence](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Math%20Notes/KL%20Divergence.md)
