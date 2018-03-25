@@ -7,7 +7,7 @@
 
 ### 2. Preliminaries
 
-- Policy gradient methods maximize the expected total reward by repeatedly estimating the gradient $g:= \nabla_\theta\mathbb{E}[\sum_{t=0}^\infty r_t]$. 
+- Policy gradient methods maximize the expected total reward by repeatedly estimating the gradient $$g:= \nabla_\theta\mathbb{E}[\sum_{t=0}^\infty r_t]$$. 
 
 - General form of policy gradient:
 
