@@ -4,7 +4,7 @@
 
 <img src="https://ws4.sinaimg.cn/large/006tNc79gy1fppq7s40k5j30du01qgln.jpg" width="400px"/>
 
-​	Here E is the [expected value operator](https://en.wikipedia.org/wiki/Expected_value), and I is the information content of *X*.[[4\]](https://en.wikipedia.org/wiki/Entropy_(information_theory)#cite_note-4)[[5\]](https://en.wikipedia.org/wiki/Entropy_(information_theory)#cite_note-5) I(*X*) is 	itself a random variable.
+  Here E is the [expected value operator](https://en.wikipedia.org/wiki/Expected_value), and I is the information content of *X*.[[4\]](https://en.wikipedia.org/wiki/Entropy_(information_theory)#cite_note-4)[[5\]](https://en.wikipedia.org/wiki/Entropy_(information_theory)#cite_note-5) I(*X*) is 	itself a random variable.
 
 - The entropy can explicitly be written as:
 
@@ -13,8 +13,6 @@
   In the case of P(*x**i*) = 0 for some *i*, the value of the corresponding summand 0 log*b*(0) is taken to be 0, which is consistent with the limit:
 
   <img src="https://ws4.sinaimg.cn/large/006tNc79gy1fppqb7q5gmj307q028749.jpg" width="200px"/>
-
-  ​
 
 - The entropy of the **multivariate normal distribution** is:
 
