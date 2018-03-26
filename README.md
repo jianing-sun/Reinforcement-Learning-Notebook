@@ -7,7 +7,7 @@
 
 ## Algorithms
 - [Generalized Advantage Estimation](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Algorithm%20Notes/Generalized%20Advantage%20Estimation.md)
-- Trust Region Policy Optimization
+- [Trust Region Policy Optimization](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Algorithm%20Notes/Trust%20Region%20Policy%20Optimization.md)
 - Deep Q-Network
 - Deep Deterministic Policy Gradient
 
