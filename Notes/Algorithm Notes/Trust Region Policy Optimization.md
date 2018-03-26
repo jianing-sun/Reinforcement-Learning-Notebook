@@ -1,6 +1,6 @@
 ## [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf)
 
-#### 1. Preliminaries
+###1. Preliminaries
 
 - Let η(π) denote the expected return of π,
 
@@ -32,7 +32,7 @@
 
   Equation (4) implies that a sufficiently small step πθ0 → π ̃ that improves Lπθold will also improve η, but does not give us any guidance on how big of a step to take.
 
-#### 2. Monotonic Improvement Guarantee for General Stochastic Policies
+###2. Monotonic Improvement Guarantee for General Stochastic Policies
 
 - Improvement Theory: bound the difference between Lπold (π) and η(π)
 
@@ -42,7 +42,7 @@
 
   <img src="https://ws1.sinaimg.cn/large/006tNc79gy1fppxu6nn20j30kw0esjtg.jpg" width="400px"/>
 
-#### 3. Optimization of Parameterized Policies
+###3. Optimization of Parameterized Policies
 
 <img src="https://ws2.sinaimg.cn/large/006tNc79gy1fppxxlg4g6j30s2084abw.jpg" width="500px"/>
 
@@ -60,11 +60,11 @@
 
   <img src="https://ws1.sinaimg.cn/large/006tNc79gy1fppy2xlaztj30r405wab1.jpg" width="550px"/>
 
-#### 4. Practical Algorithms
+###4. Practical Algorithms
 
 <img src="https://ws3.sinaimg.cn/large/006tNc79gy1fppy4tip32j30rq0gutcl.jpg" width="500px" />
 
-#### 5. Approximating Factored Policies with Neural Networks (Appendix D)
+###5. Approximating Factored Policies with Neural Networks (Appendix D)
 
 - The policy, which is a conditional probability distribution πθ(a|s), can be parameterized with a neural network. This neural network maps (deterministically) from the state vector s to a vector μ, which specifies a distribution over action space. Then we can compute the likelihood p(a|μ) and sample a ∼ p(a|μ).
 
