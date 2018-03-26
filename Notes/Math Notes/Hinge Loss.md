@@ -8,7 +8,7 @@
 
   The hinge loss is a convex function, so many of the usual convex optimizers used in machine learning can work with it.
 
-  In PPO algorithm, we can just hinge loss as part of our total loss. In that case we are more inclined to smoothed optimization versions, such as quadratically smoothed:
+  In PPO algorithm, we can use hinge loss as part of our total loss. In that case we are more inclined to smoothed optimization versions, such as quadratically smoothed:
 
   <img src="https://ws2.sinaimg.cn/large/006tNc79gy1fpq04fsqewj30c802wq2z.jpg"  width="350px" />
 
