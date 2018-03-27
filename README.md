@@ -3,7 +3,7 @@
 - Multivariant Normal Distribuation 
 - [KL Divergence](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Math%20Notes/KL%20Divergence.md)
 - [Entropy](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Math%20Notes/Entropy.md)
-
+- [Hinge Loss](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Math%20Notes/Hinge%20Loss.md)
 
 ## Algorithms
 - [Generalized Advantage Estimation](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Algorithm%20Notes/Generalized%20Advantage%20Estimation.md)
