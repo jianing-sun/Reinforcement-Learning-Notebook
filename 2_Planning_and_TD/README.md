@@ -8,3 +8,7 @@ Implement Dyna-Q and reproduce the blocking maze and shortcut maze experiments (
 
 #### Read about [Lin’s experience replay](https://link.springer.com/content/pdf/10.1007%2FBF00992699.pdf). How is the above deterministic model update in Dyna-Q related to experience replay? 
 
+colab link:
+<https://colab.research.google.com/drive/10W_ZknNnwg93MoFfJlAnnSbm7Oz6q_hU#scrollTo=XSSJks7I7LEN>
+
+Jianing Sun   260791202
