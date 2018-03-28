@@ -11,4 +11,6 @@
 - [Trust Region Policy Optimization](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Algorithm%20Notes/Trust%20Region%20Policy%20Optimization.md)
 - Deep Q-Network
 - Deep Deterministic Policy Gradient
+- [Multi-Goal Reinforcement Learning](https://d4mucfpksywv.cloudfront.net/research-covers/ingredients-for-robotics-research/technical-report.pdf)
+
 
