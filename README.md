@@ -12,5 +12,5 @@
 - Deep Q-Network
 - Deep Deterministic Policy Gradient
 - [Multi-Goal Reinforcement Learning](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Algorithm%20Notes/Multi-Goal%20Reinforcement%20Learning%20Challenging%20Robotics%20Environments%20and%20Request%20for%20Research.md)
-
+- Proximal Policy Optimization
 
