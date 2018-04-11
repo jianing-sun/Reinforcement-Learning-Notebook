@@ -1,5 +1,5 @@
 # Reinforcement Learning Notebook
-## Math Foundation
+## Math Notes
 - Multivariant Normal Distribuation 
 - [KL Divergence](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Math%20Notes/KL%20Divergence.md)
 - [Entropy](https://github.com/jianing-sun/Reinforcement-Learning-Notebook/blob/master/Notes/Math%20Notes/Entropy.md)
